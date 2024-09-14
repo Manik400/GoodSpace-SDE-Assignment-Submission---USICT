@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoodSpace-SDE-Assignment-Submission---USICT/static/css/main.f0f247c3.css",
+    "main.js": "/GoodSpace-SDE-Assignment-Submission---USICT/static/js/main.f6a50cb0.js",
+    "static/js/453.072b5c3d.chunk.js": "/GoodSpace-SDE-Assignment-Submission---USICT/static/js/453.072b5c3d.chunk.js",
+    "index.html": "/GoodSpace-SDE-Assignment-Submission---USICT/index.html",
+    "main.f0f247c3.css.map": "/GoodSpace-SDE-Assignment-Submission---USICT/static/css/main.f0f247c3.css.map",
+    "main.f6a50cb0.js.map": "/GoodSpace-SDE-Assignment-Submission---USICT/static/js/main.f6a50cb0.js.map",
+    "453.072b5c3d.chunk.js.map": "/GoodSpace-SDE-Assignment-Submission---USICT/static/js/453.072b5c3d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0f247c3.css",
+    "static/js/main.f6a50cb0.js"
+  ]
+}
